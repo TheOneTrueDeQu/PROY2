@@ -7,7 +7,7 @@ import plotly.express as px
 import pandas as pd
 
 # Cargar datos
-df = pd.read_csv("/home/ubuntu/data/data_clean.csv")
+df = pd.read_csv("C:/Users/Nicolas/Downloads/data_clean.csv")
 
 def create_app():
     # Crear la aplicación Dash
