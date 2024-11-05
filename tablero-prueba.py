@@ -286,4 +286,4 @@ app = create_app()
 
 if __name__ == '__main__':
     app.run_server(debug=True, host="127.0.0.1", port=8050)
->>>>>>> 9ce235d8e6f995731003f3218fdba35c97b9d39f
+    
